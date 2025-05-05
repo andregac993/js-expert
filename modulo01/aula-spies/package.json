@@ -1,0 +1,19 @@
+{
+  "name": "aula-spies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node src/fibonacci.test.js"
+  },
+  "engines": {
+    "node": "22"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "sinon": "^15.0.1"
+  }
+}

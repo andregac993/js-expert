@@ -1,0 +1,1 @@
+{"processes":{"4f126266-c375-46c8-a9ec-f801b675557f":{"parent":"8b3d3d94-586e-4f06-9e95-76caf6c328e6","children":[]},"8b3d3d94-586e-4f06-9e95-76caf6c328e6":{"parent":null,"children":["4f126266-c375-46c8-a9ec-f801b675557f"]}},"files":{"/Users/andre/Documents/estudos/js-expert/modulo01/aula-e2e-coverage/src/api.js":["4f126266-c375-46c8-a9ec-f801b675557f"]},"externalIds":{}}
